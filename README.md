@@ -21,8 +21,8 @@
 ## 📌 Installation & Setup
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/Tayyab2287/Dodge-Ball-3D-Game.git
-cd Dodge-Ball-3D-Game
+git clone https://github.com/Tayyab2287/Dodge-Ball-3D-UnityGame.git
+cd Dodge-Ball-3D-UnityGame
 ```
 2️⃣ **Open in Unity**  
 - Ensure you have Unity installed (Recommended version: 2021 or later).
