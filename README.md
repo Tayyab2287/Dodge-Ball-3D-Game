@@ -21,8 +21,8 @@
 ## 📌 Installation & Setup
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/DodgeBall3D.git
-cd DodgeBall3D
+git clone https://github.com/Tayyab2287/Dodge-Ball-3D-Game.git
+cd Dodge-Ball-3D-Game
 ```
 2️⃣ **Open in Unity**  
 - Ensure you have Unity installed (Recommended version: 2021 or later).
@@ -46,9 +46,17 @@ cd DodgeBall3D
 📤 **Push to GitHub**: `git push origin feature-branch`  
 🔄 **Open a Pull Request** for review.  
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 🔗 Connect & Support
-For support, suggestions, or contributions, reach out via **your-email@example.com** 🎮🚀
+For support, suggestions, or contributions, reach out via **tayyabshahid3344@gmail.com** 🎮🚀
 
+## 🖼️ Screenshots
+
+![Cylinder Inspector Panel](https://github.com/user-attachments/assets/f2ea66be-aaa4-424e-9ad8-dc63ac1b105d)
+![Build Settings](https://github.com/user-attachments/assets/e2bfa973-b01e-4611-891b-ebb640e16139)
+![Ball Inspector Panel](https://github.com/user-attachments/assets/d28534fa-305a-4420-b010-a7d1ddbd8358)
+![Win Scene](https://github.com/user-attachments/assets/6524efb2-a812-485c-ae29-f1675fc91a47)
+![Split Screen](https://github.com/user-attachments/assets/8728b4ab-fdff-44f0-b97c-90a00999e54e)
+![Main Menu Scene](https://github.com/user-attachments/assets/4ca6b599-29ef-46dd-b455-44b2170c6c21)
+![Lose Scene](https://github.com/user-attachments/assets/ed3d46bb-84c2-4e99-bffb-64d644f336d0)
+![Level Scene](https://github.com/user-attachments/assets/ece41b1e-da1e-4110-9fb0-33c2658022dc)
+![Level 6 Scene](https://github.com/user-attachments/assets/169587b4-db7a-46dd-9941-966775d68242)
